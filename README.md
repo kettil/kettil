@@ -15,9 +15,9 @@ A passionate DevOps/Backend developer from Germany
 
 ## Languages and Tools:
 
-<a title="VS Code" href="https://code.visualstudio.com"><img alt="VS Code" height="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /></a>
 <a title="TypeScript" href="https://www.typescriptlang.org"><img alt="TypeScript" height="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></a>
 <a title="Node.js" href="https://nodejs.org/en/"><img alt="Node.js" height="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
+<a title="VS Code" href="https://code.visualstudio.com"><img alt="VS Code" height="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /></a>
 <a title="Docker" href="https://www.docker.com"><img alt="Docker" height="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /></a>
 <a title="Kubernetes" href="https://kubernetes.io/de/"><img alt="Kubernetes" height="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /></a>
 <a title="Google Cloud" href="https://cloud.google.com/"><img alt="Google Cloud" height="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /></a>
